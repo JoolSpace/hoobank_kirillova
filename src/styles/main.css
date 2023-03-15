@@ -125,7 +125,7 @@ body {
   border-bottom: none;
 }
 .modal-body {
-  background-color: linear-gradient(140.32deg, #4b4949 -277.16%, #141218 66.28%);
+  background: linear-gradient(140.32deg, #4b4949 -277.16%, #141218 66.28%);
 }
 
 .close {
